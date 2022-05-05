@@ -38,6 +38,6 @@ nav {
   flex-direction: column;
 }
 
-.cart-content {
+.card-content {
   flex-grow: 1;
 }
