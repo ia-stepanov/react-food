@@ -9,20 +9,22 @@ import { NotFound } from './pages/NotFound';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <main className="container content">
-        <Router>
+    <>
+      <Router>
+        <Header />
+        <main className="container content">
           <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/">
+              <Home />
+            </Route>
             <Route path="/about" component={About} />
             <Route path="/contacts" component={Contact} />
             <Route component={NotFound} />
           </Switch>
-        </Router>
-      </main>
-      <Footer />
-    </div>
+        </main>
+        <Footer />
+      </Router>
+    </>
   );
 }
 
