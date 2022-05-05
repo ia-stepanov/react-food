@@ -26,3 +26,18 @@ nav {
   min-height: calc(100vh - 134px);
   padding: 1.5rem 0;
 }
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-content {
+  flex-grow: 1;
+}
