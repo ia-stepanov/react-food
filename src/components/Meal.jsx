@@ -13,7 +13,7 @@ function Meal(props) {
       </div>
       <div className="card-action">
         <Link to={`/meal/${idMeal}`} className="btn">
-          Посмотреть рецепт
+          Смотреть рецепт
         </Link>
       </div>
     </div>
