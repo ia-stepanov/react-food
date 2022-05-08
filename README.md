@@ -44,12 +44,13 @@ React Food — это интерактивная SPA-страница, на ко
 ## Библиотеки:
 - ReactJS
 
-<!-- ## Скриншот:
+## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![react-food](https://user-images.githubusercontent.com/86494748/166702945-d10ebe0f-b9dd-40ac-97ac-793ea3c2d563.jpg)](https://ia-stepanov.github.io/react-food/)
+[![react-food](https://user-images.githubusercontent.com/86494748/167296256-4574a65d-ec14-47cf-b3a5-6abec83d583a.jpg)](https://ia-stepanov.github.io/react-food/)
+
 
 </details>
 
 ## Ссылка на сайт:
-https://ia-stepanov.github.io/react-food/ -->
+https://ia-stepanov.github.io/react-food/
